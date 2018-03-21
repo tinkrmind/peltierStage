@@ -2,7 +2,9 @@
 
 ## Construction:
 
+![Construction -1](https://i.imgur.com/vxlvRga.jpg)
 
+![COnstruction-2](https://i.imgur.com/b19V3qF.jpg)
 
 ## Purchase links:
 
