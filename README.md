@@ -6,7 +6,7 @@
 
 ## Purchase links:
 
-- [Aluminium plate](https://www.amazon.com/RMP-125-3003-Aluminum-Sheet/dp/B00HRHB5XA/ref=sr_1_3?ie=UTF8&qid=1521599101&sr=8-3&keywords=aluminum+plate)
+- [Aluminium plate](https://www.amazon.com/Pieces-ALUMINUM-6061-Plate-Stock/dp/B01F80WQ30/ref=pd_sim_328_11?_encoding=UTF8&pd_rd_i=B01F80WQ30&pd_rd_r=D98GS036M960T89ANY8R&pd_rd_w=S4HGs&pd_rd_wg=9xt3u&psc=1&refRID=D98GS036M960T89ANY8R)
 - [Scissor stage](https://www.amazon.com/200mm-Stainless-Steel-Scissor-laboratory/dp/B01M6ZB0Y5/ref=pd_sbs_60_7?_encoding=UTF8&pd_rd_i=B01M6ZB0Y5&pd_rd_r=8ABRED6QPGHJZ7DG5ZT9&pd_rd_w=HPSU7&pd_rd_wg=XMPcd&psc=1&refRID=8ABRED6QPGHJZ7DG5ZT9)
 - [Peltier plates](https://www.amazon.com/TEC1-12706-Heatsink-Thermoelectric-Cooling-Peltier/dp/B01IUVSSHW/ref=sr_1_2?ie=UTF8&qid=1521596332&sr=8-2&keywords=peltier+plate)
 - [Thermal Adhesive](https://www.amazon.com/Conductive-Silicone-Adhesive-Compound-Heatsink/dp/B072MSXHJD/ref=sr_1_1?s=electronics&ie=UTF8&qid=1521597471&sr=1-1&keywords=thermal+epoxy)
